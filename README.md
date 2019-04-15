@@ -16,7 +16,7 @@ Also from Karin, a video for more information: [Hello on Global Graph Celebratio
 
 ## Graph Day Community Graph
 
-[Neo4j DB - user: event, password: event](https://88f0bc82.databases.neo4j.io/browser/)
+[Neo4j DB - user: events, password: events](https://88f0bc82.databases.neo4j.io/browser/)
 
 Some templated queries:
 
